@@ -21,7 +21,7 @@ const getJoke = async (URLAddress) => {
     console.log(jsonData);
 
     //Expression for the jokes
-    if (jsonData) {
+    if (jsonData != "none") {
 
       // variable for said jokes
       const joke = jsonData.joke
