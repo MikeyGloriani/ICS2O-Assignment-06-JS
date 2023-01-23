@@ -1,7 +1,7 @@
 {
     "name": "Assignment 6 API",
     "short_name": "API Assignment",
-    "description": "Github Page for my template app",
+    "description": "You get a joke from an API",
     "scope": "/ICS2O-Assignment-06-JS/",
     "start_url": "/ICS2O-Assignment-06-JS/",
     "background_color": "#ffffff",
