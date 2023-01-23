@@ -1,10 +1,10 @@
-var GHPATH = "/ICS2O-Template-PWA"
+var GHPATH = "/ICS2O-Assignment-06-JS"
 var APP_PREFIX = "gppwa_"
 var VERSION = "version_001"
 var URLS = [
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
-  `${GHPATH}/css/styles.css`,
+  `${GHPATH}/css/style.css`,
   `${GHPATH}/android-chrome-512x512.png`,
   `${GHPATH}/js/script.js`,
 ]

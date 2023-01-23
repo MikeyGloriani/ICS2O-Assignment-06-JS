@@ -1,9 +1,9 @@
 {
-    "name": "Template App Test",
-    "short_name": "Mikey's Test App",
+    "name": "Assignment 6 API",
+    "short_name": "API Assignment",
     "description": "Github Page for my template app",
-    "scope": "/ICS2O-Template-PWA/",
-    "start_url": "/ICS2O-Template-PWA/",
+    "scope": "/ICS2O-Assignment-06-JS/",
+    "start_url": "/ICS2O-Assignment-06-JS/",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "display": "standalone", 
